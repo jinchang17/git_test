@@ -1,3 +1,19 @@
+explorer.exe index.html #打开HTML
+
 <p> #段落
 <time> #时间
 <h1> #标题
+
+<strong> #强调
+<em> #斜体
+
+<!-- --> #注释
+
+
+<ul> #无序表
+ <li>
+
+ <a href="https://www.theodinproject.com/about">  </a> #超链接
+target="_blank" rel="noopener noreferrer" #新窗口打开
+
+ <p><img src="./images/dog.jpg" alt="dog" height="510" width="410"></p> #插入图片
