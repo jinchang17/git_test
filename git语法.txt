@@ -2,3 +2,4 @@ git status #状态
 git log #日志
 git add . #添加所有修改
 git commit -m "" #提交
+git push #加载到仓库
